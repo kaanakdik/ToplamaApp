@@ -1,0 +1,5 @@
+C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\publish\ToplamaApp.exe
+C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\publish\ToplamaApp.dll
+C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\publish\ToplamaApp.deps.json
+C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\publish\ToplamaApp.runtimeconfig.json
+C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\publish\ToplamaApp.pdb

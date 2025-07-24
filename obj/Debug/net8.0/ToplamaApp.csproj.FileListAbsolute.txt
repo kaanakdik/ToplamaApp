@@ -1,0 +1,14 @@
+C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\bin\Debug\net8.0\ToplamaApp.exe
+C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\bin\Debug\net8.0\ToplamaApp.deps.json
+C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\bin\Debug\net8.0\ToplamaApp.runtimeconfig.json
+C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\bin\Debug\net8.0\ToplamaApp.dll
+C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\bin\Debug\net8.0\ToplamaApp.pdb
+C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\obj\Debug\net8.0\ToplamaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\obj\Debug\net8.0\ToplamaApp.AssemblyInfoInputs.cache
+C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\obj\Debug\net8.0\ToplamaApp.AssemblyInfo.cs
+C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\obj\Debug\net8.0\ToplamaApp.csproj.CoreCompileInputs.cache
+C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\obj\Debug\net8.0\ToplamaApp.dll
+C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\obj\Debug\net8.0\refint\ToplamaApp.dll
+C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\obj\Debug\net8.0\ToplamaApp.pdb
+C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\obj\Debug\net8.0\ToplamaApp.genruntimeconfig.cache
+C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\obj\Debug\net8.0\ref\ToplamaApp.dll
