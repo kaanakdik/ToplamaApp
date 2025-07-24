@@ -12,3 +12,4 @@ C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaA
 C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\obj\Release\net8.0\ToplamaApp.pdb
 C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\obj\Release\net8.0\ToplamaApp.genruntimeconfig.cache
 C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\obj\Release\net8.0\ref\ToplamaApp.dll
+C:\Users\Dc\Documents\CI-CD-dersi-icin-dotnet-Projelerim\ConsoleToplama\ToplamaApp\obj\Release\net8.0\ToplamaApp.sourcelink.json
