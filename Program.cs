@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.WriteLine("Bu program GitHub'dan indirildi.");
         Console.Write("Birinci sayıyı girin: ");
         int sayi1 = Convert.ToInt32(Console.ReadLine());
 
