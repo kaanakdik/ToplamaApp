@@ -11,7 +11,7 @@ class Program
         Console.Write("İkinci sayıyı girin: ");
         int sayi2 = Convert.ToInt32(Console.ReadLine());
 
-        int toplam = sayi1 * sayi2;
-        Console.WriteLine($"Çarpım: {toplam}");
+        int carpim = sayi1 * sayi2;
+        Console.WriteLine($"Çarpım: {carpim}");
     }
 }
