@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToplamaApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e21c450060ce10de2afcfb653b68abc882ffcb9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+156e4a97400e412338110be0ca0eccebf00f0a83")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToplamaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToplamaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
